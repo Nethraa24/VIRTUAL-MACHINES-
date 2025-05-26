@@ -62,4 +62,4 @@ Step 2. Setup File Sharing on VirtualBox Guest Machine.
 
 ## Result:
 
-Thus the virtual machine files are moved to another VM
+Thus the virtual machine files are moved to another VM successfully.
